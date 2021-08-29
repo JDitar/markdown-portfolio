@@ -1,3 +1,3 @@
 [GitHub](http://github.com)
 
-[nieuws](https://nu.nl)
+[Nieuws](https://nu.nl)
